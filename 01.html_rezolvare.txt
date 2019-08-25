@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Numbers</title>
+    <link rel="stylesheet" href="initial.css">
+</head>
+
+<body>
+    <div id="wrapper">
+        <h1>Welcome Guest!</h1>
+        <article>
+            <div>1</div>
+            <p>Here comes the sun..</p>
+            <button>read more</button>
+        </article>
+        <article>
+            <div>2</div>
+            <p>Here comes the sun again..</p>
+            <button>read more</button>
+        </article>
+        <article>
+            <div>3</div>
+            <p>Here comes the sun again, and again..</p>
+            <button>read more</button>
+        </article>
+        <article>
+            <div>4</div>
+            <p>Here comes the sun.. No more</p>
+            <button>read more</button>
+        </article>
+    </div>
+</body>
+
+</html>
